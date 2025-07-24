@@ -46,7 +46,7 @@ Foi um ótimo desafio para praticar conceitos de **manipulação de DOM**, **req
 
 ```bash
 # Clone este repositório
-git clone 
+git clone https://github.com/iliekrishna/Pokedex
 
 # Acesse a pasta
 cd pokedex
